@@ -1,75 +1,92 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=2EF7BC&center=true&vCenter=true&width=435&lines=Welcome+to+dipeshdarks's+Space!;Building+the+Future+with+Code;Let's+create+something+amazing!" alt="Typing SVG" />
-</p>
-
-<!-- Dynamic Current Time Header -->
-<h3 align="center">
-  🕐 Last Updated: 2025-05-29 08:42:17 UTC
-</h3>
+# <div align="center">💫 Welcome to dipeshdarks's Profile 💫</div>
 
 <div align="center">
-  <!-- Animated Badges -->
-  <div class="badge-container">
-    <a href="https://github.com/dipeshdarks">
-      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
-    </a>
-    <a href="https://github.com/dipeshdarks?tab=repositories">
-      <img src="https://img.shields.io/badge/Check%20My-Repositories-2ea44f?style=for-the-badge&logo=github" alt="Repositories"/>
-    </a>
-    <img src="https://img.shields.io/badge/Made%20with-Love-ff69b4?style=for-the-badge&logo=heart" alt="Made with Love"/>
-  </div>
 
-  <!-- Stats Cards with Animation -->
-  <p align="center" class="stats-card">
-    <img src="https://github-readme-stats.vercel.app/api?username=dipeshdarks&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="48%" alt="GitHub Stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipeshdarks&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" width="48%" alt="GitHub Streak"/>
-  </p>
+![Profile Banner](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-  <!-- Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipeshdarks&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=F85D7F" alt="Top Languages"/>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%8C%B8;JavaScript+Ninja+%E2%9A%A1;React+Enthusiast+%F0%9F%8C%9F)
+
 </div>
 
-<!-- Snake Animation -->
+---
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dipeshdarks/dipeshdarks/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dipeshdarks/dipeshdarks/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dipeshdarks/dipeshdarks/output/github-contribution-grid-snake.svg">
-  </picture>
+
+```javascript
+const dipeshdarks = {
+    title: "Frontend Developer & Design Enthusiast",
+    location: "Digital Realm 🌏",
+    skills: {
+        languages: ["JavaScript++", "HTML5", "CSS3/SASS"],
+        frontend: ["React", "Next.js", "TailwindCSS"],
+        backend: ["Node.js", "Express"],
+        tools: ["VS Code", "Git", "Figma"],
+        currentQuest: "Mastering the Art of Clean Code ⚔️"
+    },
+    powerLevel: "Over 9000! 🔥"
+};
+```
+
 </div>
 
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/dipeshdarks/count.svg" alt="Visitor Count"/>
-  <br>
-  <i>Thank you for visiting! 👋</i>
-</p>
+## ⚡ Tech Arsenal
 
-<h2 align="center" class="gradient-text">🚀 Tech Stack & Tools</h2>
-
-<!-- Tech Stack Section -->
-<p align="center" class="tech-stack">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</p>
-
-<h2 align="center" class="gradient-text">✨ Featured Projects</h2>
-
-<!-- Project Cards -->
-<div align="center" class="stats-card">
-  <a href="https://github.com/dipeshdarks/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dipeshdarks&repo=project1&theme=radical&bg_color=0D1117&hide_border=true" />
-  </a>
-  <a href="https://github.com/dipeshdarks/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dipeshdarks&repo=project2&theme=radical&bg_color=0D1117&hide_border=true" />
-  </a>
-</div>
-
-<!-- Wave Animation Footer -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dipeshdarks/dipeshdarks/main/assets/wave.svg" width="100%" alt="Wave"/>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-FF69B4?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 </div>
+
+## 📊 Power Levels
+
+<div align="center">
+
+<a href="https://github.com/dipeshdarks">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dipeshdarks&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipeshdarks&layout=compact&langs_count=7&theme=radical"/>
+</a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dipeshdarks&theme=radical)](https://github.com/dipeshdarks)
+
+</div>
+
+## 🌟 Epic Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipeshdarks&repo=your-repo-name&theme=radical)](https://github.com/dipeshdarks/your-repo-name)
+
+*More legendary projects coming soon... 🚀*
+
+</div>
+
+## 🤝 Join My Party
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%F0%9F%92%BC-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Twitter](https://img.shields.io/badge/Twitter-%F0%9F%92%AC-00BFFF?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%8C%8F-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url)
+[![Instagram](https://img.shields.io/badge/Instagram-%F0%9F%93%B8-FF69B4?style=for-the-badge&logo=instagram&logoColor=white)](your-instagram-url)
+
+</div>
+
+---
+
+<div align="center">
+
+### *"In this world, those who break the rules are scum... but those who abandon their friends are worse than scum."* 
+*~ Kakashi Hatake* 🍥
+
+![Profile Views](https://komarev.com/ghpvc/?username=dipeshdarks&color=FF69B4&style=flat-square&label=Profile+Views)
+
+</div>
+
+<!-- Add this to your GitHub profile repository as README.md -->
